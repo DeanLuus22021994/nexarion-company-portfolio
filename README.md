@@ -71,4 +71,3 @@ services, and brand guidelines based on information from the company website.
 ### Social Media
 
 - [LinkedIn](https://www.linkedin.com/company/nexarion-io)
-# nexarion-company-portfolio
