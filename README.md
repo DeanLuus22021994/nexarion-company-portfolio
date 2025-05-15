@@ -1,195 +1,136 @@
 <!--
   Nexarion Documentation Index
-  Minimalist, responsive, visually appealing markdown
+  A comprehensive resource hub for all Nexarion products and services
+  View on GitHub for optimal rendering with full markdown support
 -->
 
-<div align="center" style="max-width: 800px; margin: auto;">
+<div align="center">
+  <img src="./assets/images/nexarion-logo.png" alt="Nexarion Logo" width="120" height="120" />
+  <h1>Nexarion Documentation Hub</h1>
+  <p><strong>Comprehensive resources for Nexarion's enterprise solutions</strong></p>
 
-  <img src="https://www.nexarion.io/favicon.ico" alt="Nexarion Logo" width="100" height="100" style="border-radius: 50%; box-shadow: 0 2px 12px #e0e0e0;" />
-
-  <h1 style="margin: 0.5em 0 0.2em 0; font-size: 2.2em; letter-spacing: 0.02em;">🚀 Nexarion Documentation Index 🚀</h1>
-  <p style="font-size: 1.1em; color: #555; margin-bottom: 1.5em;">
-    <strong>Comprehensive resources for Nexarion products and services</strong>
-  </p>
-
-  <div style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap; margin-bottom: 1.5em;">
-    <a href="https://www.nexarion.io/">
-      <img src="https://img.shields.io/badge/Website-www.nexarion.io-1a73e8?style=for-the-badge&logo=firefox" alt="Website" />
-    </a>
-    <a href="https://www.linkedin.com/company/nexarion-io">
-      <img src="https://img.shields.io/badge/LinkedIn-Follow%20Us-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:info@nexarion.io">
-      <img src="https://img.shields.io/badge/Email-info%40nexarion.io-ff5252?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-  </div>
-
+  [![Website](https://img.shields.io/badge/Website-nexarion.io-1a73e8?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.nexarion.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexarion-io)
+  [![Email](https://img.shields.io/badge/Email-info@nexarion.io-ff5252?style=flat-square&logo=mail.ru&logoColor=white)](mailto:info@nexarion.io)
+  [![GitHub Stars](https://img.shields.io/github/stars/nexarion-company-portfolio/nexarion-company-portfolio?style=flat-square&logo=github)](https://github.com/nexarion-company-portfolio/nexarion-company-portfolio/stargazers)
+  [![License](https://img.shields.io/github/license/nexarion-company-portfolio/nexarion-company-portfolio?style=flat-square)](./LICENSE)
 </div>
 
-<br />
+## 📋 Overview
 
-<details open>
-  <summary><h2 style="margin-bottom: 0.5em;">📚 Table of Contents</h2></summary>
-  <ul style="max-width: 600px; margin: auto;">
-    <li><a href="#-company-information">📋 Company Information</a></li>
-    <li><a href="#-website-structure">🌐 Website Structure</a></li>
-    <li><a href="#-products">⚙️ Products</a>
-      <ul>
-        <li><a href="#-nexarion-solutions-suite">🚀 Nexarion Solutions Suite</a></li>
-      </ul>
-    </li>
-    <li><a href="#-contact-info">📞 Contact Info</a>
-      <ul>
-        <li><a href="#-contact">📱 Contact</a></li>
-        <li><a href="#-connect">🔗 Connect</a></li>
-      </ul>
-    </li>
-  </ul>
-</details>
+Nexarion delivers enterprise-grade solutions in connectivity, cybersecurity, cloud infrastructure, and communications. This repository serves as the central documentation hub for all Nexarion products and services.
 
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2em 0;" />
+## 📚 Table of Contents
 
-<h2 id="-company-information" align="center">📋 Company Information</h2>
+- [📋 Overview](#-overview)
+- [📚 Table of Contents](#-table-of-contents)
+- [📋 Company Information](#-company-information)
+- [🌐 Website Structure](#-website-structure)
+- [⚙️ Products](#️-products)
+- [📞 Contact Information](#-contact-information)
+- [👥 Contributing](#-contributing)
+- [📄 License](#-license)
+- [❓ FAQ](#-faq)
 
-<table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
-  <thead>
-    <tr style="background: #f8f9fa;">
-      <th style="width: 30%; padding: 12px; border-bottom: 2px solid #e0e0e0;">Resource</th>
-      <th style="width: 70%; padding: 12px; border-bottom: 2px solid #e0e0e0;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="./company-overview.md">📑 Company Overview</a></td>
-      <td>A comprehensive overview of Nexarion, its vision, values, product stack, and contact information</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./about-nexarion.md">🔍 About Nexarion</a></td>
-      <td>Detailed information about Nexarion's vision, values, and approach to technology solutions</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./brand-guidelines.md">🎨 Brand Guidelines</a></td>
-      <td>Guidelines for the Nexarion brand identity, positioning, messaging, and tone of voice</td>
-    </tr>
-  </tbody>
-</table>
+## 📋 Company Information
 
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2em 0;" />
+| Resource | Description |
+|:--------:|:------------|
+| [Company Overview](./docs/company/overview.md) | Vision, values, and product ecosystem |
+| [About Nexarion](./docs/company/about.md) | Our mission and approach to technology solutions |
+| [Brand Guidelines](./docs/company/brand-guidelines.md) | Brand identity, positioning, and messaging |
 
-<h2 id="-website-structure" align="center">🌐 Website Structure</h2>
+## 🌐 Website Structure
 
-<table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
-  <thead>
-    <tr style="background: #f8f9fa;">
-      <th style="width: 30%; padding: 12px; border-bottom: 2px solid #e0e0e0;">Resource</th>
-      <th style="width: 70%; padding: 12px; border-bottom: 2px solid #e0e0e0;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="./website-documentation.md">🗺️ Website Documentation</a></td>
-      <td>A map of the Nexarion website structure with descriptions of each page</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./nexarion-home.md">🏠 Nexarion Home Page</a></td>
-      <td>Documentation of the main website homepage content</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./nexarion-products.md">📦 Products Overview</a></td>
-      <td>An overview of all Nexarion product offerings</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./nexconnect-product.md">🔌 NexConnect</a></td>
-      <td>Detailed information about Nexarion's connectivity solutions</td>
-    </tr>
-  </tbody>
-</table>
+| Resource | Description |
+|:--------:|:------------|
+| [Website Documentation](./docs/website/structure.md) | Site architecture and navigation |
+| [Home Page](./docs/website/home.md) | Main website content guide |
+| [Products Overview](./docs/products/overview.md) | Complete product catalog |
 
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2em 0;" />
+## ⚙️ Products
 
-<h2 id="-products" align="center">⚙️ Products</h2>
+<div align="center">
+  <h3>🚀 Nexarion Solutions Suite</h3>
+</div>
 
-<h3 id="-nexarion-solutions-suite" align="center" style="margin-top: 0;">🚀 Nexarion Solutions Suite</h3>
+| Solution | Description | Documentation |
+|:--------:|:------------|:------------:|
+| ![NexConnect](https://img.shields.io/badge/NexConnect-Connectivity-4285F4?style=flat-square&logo=cloudflare&logoColor=white) | Enterprise connectivity solutions | [View Docs](./docs/products/nexconnect.md) |
+| ![NexCyber](https://img.shields.io/badge/NexCyber-Security-34A853?style=flat-square&logo=shield&logoColor=white) | Comprehensive security platform | [View Docs](./docs/products/nexcyber.md) |
+| ![NexCloud](https://img.shields.io/badge/NexCloud-Infrastructure-FBBC05?style=flat-square&logo=amazon-aws&logoColor=white) | Cloud infrastructure services | [View Docs](./docs/products/nexcloud.md) |
+| ![NexComms](https://img.shields.io/badge/NexComms-Communications-EA4335?style=flat-square&logo=google-chat&logoColor=white) | Communication tools | [View Docs](./docs/products/nexcomms.md) |
 
-<table align="center" style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse;">
-  <thead>
-    <tr style="background: #f8f9fa;">
-      <th style="width: 30%; padding: 12px; border-bottom: 2px solid #e0e0e0;">Resource</th>
-      <th style="width: 70%; padding: 12px; border-bottom: 2px solid #e0e0e0;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><a href="./nexarion-products.md">📦 Products Overview</a></td>
-      <td>An overview of all Nexarion product offerings</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./nexconnect-product.md">🔌 NexConnect</a></td>
-      <td>Detailed information about Nexarion's connectivity solutions</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./nexcyber-product.md">🔒 NexCyber</a></td>
-      <td>Detailed information about Nexarion's security solutions</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./nexcloud-product.md">☁️ NexCloud</a></td>
-      <td>Detailed information about Nexarion's cloud infrastructure solutions</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="./nexcomms-product.md">💬 NexComms</a></td>
-      <td>Detailed information about Nexarion's communication and collaboration tools</td>
-    </tr>
-  </tbody>
-</table>
+## 📞 Contact Information
 
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2em 0;" />
-
-<h2 id="-contact-info" align="center">📞 Contact Info</h2>
-
-<div align="center" style="margin-bottom: 1.5em;">
-  <a href="./contact-nexarion.md">
-    <img src="https://img.shields.io/badge/Contact%20Us-View%20Details-ff9800?style=for-the-badge" alt="Contact Us" />
+<div align="center">
+  <a href="./docs/contact.md">
+    <img src="https://img.shields.io/badge/Contact_Us-View_Details-ff9800?style=for-the-badge" alt="Contact Us" />
   </a>
 </div>
 
-<h3 id="-contact" align="center">📱 Contact</h3>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <strong>Johannesburg</strong><br>
+      Block 2, Ground Floor<br>
+      Stratford Office Park<br>
+      Broadacres, Johannesburg 2055<br>
+      📞 +27 (10) 157 9000
+    </td>
+    <td align="center" valign="top" width="50%">
+      <strong>Cape Town</strong><br>
+      📞 +27 (87) 729 2200
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2%; max-width: 800px; margin: auto;">
-  <div style="flex: 1 1 320px; min-width: 280px; max-width: 380px; box-sizing: border-box; padding: 20px; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 1em; background: #fafbfc;">
-    <strong>Johannesburg:</strong><br>
-    Block 2, Ground Floor<br>
-    Stratford Office Park<br>
-    Broadacres, Johannesburg 2055<br>
-    <strong>Phone:</strong> +27 (10) 157 9000
-  </div>
-  <div style="flex: 1 1 320px; min-width: 280px; max-width: 380px; box-sizing: border-box; padding: 20px; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 1em; background: #fafbfc;">
-    <strong>Cape Town:</strong><br>
-    <strong>Phone:</strong> +27 (87) 729 2200
-  </div>
+<div align="center">
+  <a href="mailto:info@nexarion.io">📧 info@nexarion.io</a> &nbsp;|&nbsp;
+  <a href="https://www.nexarion.io/">🌐 www.nexarion.io</a>
+  <br><br>
+  <a href="https://www.linkedin.com/company/nexarion-io">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2em 0;" />
+## 👥 Contributing
 
-<h3 id="-connect" align="center">🔗 Connect</h3>
+We welcome contributions to improve our documentation!
 
-<div align="center" style="margin-bottom: 1.5em;">
+```
+1. Fork the repository
+2. Create your feature branch (git checkout -b feature/amazing-improvement)
+3. Commit your changes (git commit -m 'Add some amazing improvement')
+4. Push to the branch (git push origin feature/amazing-improvement)
+5. Open a Pull Request
+```
+
+Please review our [contribution guidelines](./CONTRIBUTING.md) and [code of conduct](./CODE_OF_CONDUCT.md) before submitting changes.
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+## ❓ FAQ
+
+<details>
+  <summary><strong>How can I get support for Nexarion products?</strong></summary>
+  <p>For product support, please open an <a href="https://github.com/nexarion-company-portfolio/nexarion-company-portfolio/issues">issue</a> or contact us at <a href="mailto:support@nexarion.io">support@nexarion.io</a>.</p>
+</details>
+
+<details>
+  <summary><strong>How can I request a feature or partnership?</strong></summary>
+  <p>For feature requests or partnership inquiries, email us at <a href="mailto:info@nexarion.io">info@nexarion.io</a> with details of your proposal.</p>
+</details>
+
+<div align="center">
+  <br>
   <p>
-    <a href="mailto:info@nexarion.io">📧 info@nexarion.io</a> &nbsp;|&nbsp;
-    <a href="https://www.nexarion.io/">🌐 www.nexarion.io</a>
+    <sub>Crafted with ❤️ by the Nexarion Team — <a href="https://www.nexarion.io/">www.nexarion.io</a></sub>
   </p>
-  <p>
-    <a href="https://www.linkedin.com/company/nexarion-io">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  
+  [![GitHub stars](https://img.shields.io/github/stars/nexarion-company-portfolio/nexarion-company-portfolio?style=social)](https://github.com/nexarion-company-portfolio/nexarion-company-portfolio/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/nexarion-company-portfolio/nexarion-company-portfolio?style=social)](https://github.com/nexarion-company-portfolio/nexarion-company-portfolio/network/members)
+  [![GitHub watchers](https://img.shields.io/github/watchers/nexarion-company-portfolio/nexarion-company-portfolio?style=social)](https://github.com/nexarion-company-portfolio/nexarion-company-portfolio/watchers)
 </div>
-
-<hr style="border: none; border-top: 1px solid #e0e0e0; margin: 2em 0;" />
-
-<div align="center" style="color: #888; font-size: 1em;">
-  <em>Crafted with ❤️ by the Nexarion Team — <a href="https://www.nexarion.io/">www.nexarion.io</a></em>
-</div>
-
-<!--
-  For best results, view this markdown on GitHub or a markdown renderer that supports HTML and CSS styles.
--->
