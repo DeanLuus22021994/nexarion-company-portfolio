@@ -1,93 +1,198 @@
-# Nexarion Documentation Index
+<p align="center">
+  <img src="https://www.nexarion.io/favicon.ico" alt="Nexarion Logo" width="120" />
+</p>
 
-![Nexarion Logo](https://www.nexarion.io/favicon.ico)
+<h1 align="center" style="border-bottom: none;">🚀 <span style="color:#1a73e8;">Nexarion Documentation Index</span> 🚀</h1>
 
-## Comprehensive resources for Nexarion products and services
+<p align="center">
+  <b>Comprehensive resources for Nexarion products and services</b>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-www.nexarion.io-blue?style=for-the-badge&logo=firefox)](https://www.nexarion.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Us-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/nexarion-io)
-[![Email](https://img.shields.io/badge/Email-info%40nexarion.io-red?style=for-the-badge&logo=gmail)](mailto:info@nexarion.io)
+<p align="center">
+  <a href="https://www.nexarion.io/">
+    <img src="https://img.shields.io/badge/Website-www.nexarion.io-1a73e8?style=for-the-badge&logo=firefox" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/company/nexarion-io">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow%20Us-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:info@nexarion.io">
+    <img src="https://img.shields.io/badge/Email-info%40nexarion.io-ff5252?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## 📚 Table of Contents
+<details open>
+  <summary><strong>📚 Table of Contents</strong></summary>
 
-- [Nexarion Documentation Index](#nexarion-documentation-index)
-  - [Comprehensive resources for Nexarion products and services](#comprehensive-resources-for-nexarion-products-and-services)
-  - [📚 Table of Contents](#-table-of-contents)
-  - [📋 Company Information](#-company-information)
-  - [🌐 Website Structure](#-website-structure)
-  - [⚙️ Products](#️-products)
-    - [🚀 Nexarion Solutions Suite](#-nexarion-solutions-suite)
-  - [📞 Contact Info](#-contact-info)
-    - [📱 Contact](#-contact)
-    - [🔗 Connect](#-connect)
+- [📋 Company Information](#-company-information)
+- [🌐 Website Structure](#-website-structure)
+- [⚙️ Products](#️-products)
+  - [🚀 Nexarion Solutions Suite](#-nexarion-solutions-suite)
+- [📞 Contact Info](#-contact-info)
+  - [📱 Contact](#-contact)
+  - [🔗 Connect](#-connect)
 
 ---
 
 ## 📋 Company Information
 
-| Resource                                     | Description                                                                                      |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [📑 Company Overview](./company-overview.md) | A comprehensive overview of Nexarion, its vision, values, product stack, and contact information |
-| [🔍 About Nexarion](./about-nexarion.md)     | Detailed information about Nexarion's vision, values, and approach to technology solutions       |
-| [🎨 Brand Guidelines](./brand-guidelines.md) | Guidelines for the Nexarion brand identity, positioning, messaging, and tone of voice            |
+<table>
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+
+      <th>Resource</th>
+
+      <th>Description</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./company-overview.md">📑 Company Overview</a></td>
+      <td>A comprehensive overview of Nexarion, its vision, values, product stack, and contact information</td>
+    </tr>
+    <tr>
+      <td><a href="./about-nexarion.md">🔍 About Nexarion</a></td>
+      <td>Detailed information about Nexarion's vision, values, and approach to technology solutions</td>
+    </tr>
+    <tr>
+      <td><a href="./brand-guidelines.md">🎨 Brand Guidelines</a></td>
+      <td>Guidelines for the Nexarion brand identity, positioning, messaging, and tone of voice</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ## 🌐 Website Structure
 
-| Resource                                               | Description                                                            |
-| ------------------------------------------------------ | ---------------------------------------------------------------------- |
-| [🗺️ Website Documentation](./website-documentation.md) | A map of the Nexarion website structure with descriptions of each page |
-| [🏠 Nexarion Home Page](./nexarion-home.md)            | Documentation of the main website homepage content                     |
-| [📦 Products Overview](./nexarion-products.md)         | An overview of all Nexarion product offerings                          |
-| [🔌 NexConnect](./nexconnect-product.md)               | Detailed information about Nexarion's connectivity solutions           |
+<table>
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+
+      <th>Resource</th>
+
+      <th>Description</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./website-documentation.md">🗺️ Website Documentation</a></td>
+      <td>A map of the Nexarion website structure with descriptions of each page</td>
+    </tr>
+    <tr>
+      <td><a href="./nexarion-home.md">🏠 Nexarion Home Page</a></td>
+      <td>Documentation of the main website homepage content</td>
+    </tr>
+    <tr>
+      <td><a href="./nexarion-products.md">📦 Products Overview</a></td>
+      <td>An overview of all Nexarion product offerings</td>
+    </tr>
+    <tr>
+      <td><a href="./nexconnect-product.md">🔌 NexConnect</a></td>
+      <td>Detailed information about Nexarion's connectivity solutions</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ## ⚙️ Products
 
 ### 🚀 Nexarion Solutions Suite
 
-| Product                                        | Description                                                                 |
-| ---------------------------------------------- | --------------------------------------------------------------------------- |
-| [📦 Products Overview](./nexarion-products.md) | An overview of all Nexarion product offerings                               |
-| [🔌 NexConnect](./nexconnect-product.md)       | Detailed information about Nexarion's connectivity solutions                |
-| [🔒 NexCyber](./nexcyber-product.md)           | Detailed information about Nexarion's security solutions                    |
-| [☁️ NexCloud](./nexcloud-product.md)           | Detailed information about Nexarion's cloud infrastructure solutions        |
-| [💬 NexComms](./nexcomms-product.md)           | Detailed information about Nexarion's communication and collaboration tools |
+<table>
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Description</th>
+    </tr>
+    <tr>
 
-      <td>
-        <strong>Johannesburg:</strong><br>
-        Block 2, Ground Floor<br>
-        Stratford Office Park<br>
-        Broadacres, Johannesburg 2055
-      </td>
-      <td>
-        <strong>Johannesburg:</strong><br>
-        +27 (10) 157 9000<br><br>
-        <strong>Cape Town:</strong><br>
-        +27 (87) 729 2200
-      </td>
-      <td rowspan="2">
-        <a href="mailto:info@nexarion.io">📧 info@nexarion.io</a><br><br>
-        <a href="https://www.nexarion.io/">🌐 www.nexarion.io</a><br><br>
+      <th>Resource</th>
+
+      <th>Description</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./nexarion-products.md">📦 Products Overview</a></td>
+      <td>An overview of all Nexarion product offerings</td>
+    </tr>
+    <tr>
+      <td><a href="./nexconnect-product.md">🔌 NexConnect</a></td>
+      <td>Detailed information about Nexarion's connectivity solutions</td>
+    </tr>
+    <tr>
+      <td><a href="./nexcyber-product.md">🔒 NexCyber</a></td>
+      <td>Detailed information about Nexarion's security solutions</td>
+    </tr>
+    <tr>
+      <td><a href="./nexcloud-product.md">☁️ NexCloud</a></td>
+      <td>Detailed information about Nexarion's cloud infrastructure solutions</td>
+    </tr>
+    <tr>
+      <td><a href="./nexcomms-product.md">💬 NexComms</a></td>
+      <td>Detailed information about Nexarion's communication and collaboration tools</td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ## 📞 Contact Info
 
-[📱 Contact Nexarion](./contact-nexarion.md) - Complete contact information for reaching Nexarion
+<p align="center">
+  <a href="./contact-nexarion.md">
+    <img src="https://img.shields.io/badge/Contact%20Us-View%20Details-ff9800?style=for-the-badge" alt="Contact Us" />
+  </a>
+</p>
 
 ### 📱 Contact
 
-**Johannesburg:**  
-+27 (10) 157 9000
+<table>
+  <tr>
+    <td>
+      <strong>Johannesburg:</strong><br>
+      Block 2, Ground Floor<br>
+      Stratford Office Park<br>
+      Broadacres, Johannesburg 2055<br>
+      <strong>Phone:</strong> +27 (10) 157 9000
+    </td>
+    <td>
+      <strong>Cape Town:</strong><br>
+      <em>Phone:</em> +27 (87) 729 2200
+    </td>
+  </tr>
+</table>
 
-**Cape Town:**  
-+27 (87) 729 2200
-
-[![Contact Us](https://img.shields.io/badge/Contact%20Us-View%20Details-orange?style=for-the-badge)](./contact-nexarion.md)
+---
 
 ### 🔗 Connect
 
-[📧 info@nexarion.io](mailto:info@nexarion.io)
+<p>
+  <a href="mailto:info@nexarion.io">📧 info@nexarion.io</a><br>
+  <a href="https://www.nexarion.io/">🌐 www.nexarion.io</a><br>
+  <a href="https://www.linkedin.com/company/nexarion-io">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-[🌐 www.nexarion.io](https://www.nexarion.io/)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexarion-io)
+<p align="center">
+  <sub>
+    <em>Crafted with ❤️ by the Nexarion Team &mdash; <a href="https://www.nexarion.io/">www.nexarion.io</a></em>
+  </sub>
+</p>
